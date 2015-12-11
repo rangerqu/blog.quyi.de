@@ -1,8 +1,6 @@
 ---
-layout: post
-title: About Me
+layout: default
+title: 关于
 ---
 
-## Hsiaoming Yang
-
-Hi, I am Hsiaoming Yang, the author of this theme.
+这家伙很懒，什么都没有留下。

@@ -1,22 +1,27 @@
-name: Just lepture
-url: "http://lepture.com"
-author: Hsiaoming Yang
+name: The Qlog
+url: "http://blog.quyi.de"
+author: Yi Qu
 
-markdown: redcarpet
-permalink: /:year/:month/:title/
-paginate: 10
+markdown: kramdown
+permalink: /:year/:title/
+gems: [jekyll-paginate]
+paginate: 5
 paginate_path: "page/:num/"
 
 links:
-  - name: About
+  - name: 关于
     url: /about/
-  - name: Feed
+  - name: 目录
+    url: /archives/
+  - name: 订阅
     url: /feed.xml
 
 social:
   - name: Email
-    url: "mailto:me@lepture.com"
+    url: "mailto:rangerqu@gmail.com"
   - name: Twitter
-    url: "https://twitter.com/lepture"
+    url: "https://twitter.com/rangerqu"
   - name: GitHub
-    url: "https://github.com/lepture"
+    url: "https://github.com/rangerqu"
+
+google_analytics: UA-5424359-4

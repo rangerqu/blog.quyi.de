@@ -6,6 +6,8 @@
   <title>{{ page.title }} — {{ site.name }}</title>
   {% include head.html %}
 
+  <script>js('http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML')</script>
+
   {% if site.twitter %}
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="{{ page.title }}">
@@ -20,12 +22,6 @@
 </head>
 <body>
   {% include navigation.html %}
-
-  <div id="subheader">
-    <div class="container yue">
-      {% include contact.html %}
-    </div>
-  </div>
 
   <div id="main">
     <div class="container yue">

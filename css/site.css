@@ -62,6 +62,7 @@ a:hover {
 
 #header {
   padding: 60px 0 30px;
+  border-bottom: 1px solid #eee;
   text-align: center;
 }
 #subheader {
@@ -127,16 +128,32 @@ a:hover {
 .entry-list .entry-item {
   margin: 25px 0;
   line-height: 25px;
-  min-height: 50px;
   clear: both;
 }
 
 .entry-list .entry-meta {
-  color: #999;
+  float: left;
+  width: 120px;
+  text-align: right;
   font-size: 14px;
   font-family: "Optima", "Helvetica Neue", sans-serif;
 }
-.entry-list h2 {
+.entry-list .entry-meta time {
+  display: block;
+}
+.entry-list .entry-meta em {
+  font-size: 13px;
+}
+.entry-list .detail {
+  margin-left: 140px;
+}
+.entry-list h1 {
+  font-size: 13px;
+  text-transform: uppercase;
+  font-weight: 300;
+  font-family: sans-serif;
+  color: #999;
+}.entry-list h2 {
   margin: 5px 0 8px;
   font-size: 18px;
 }
