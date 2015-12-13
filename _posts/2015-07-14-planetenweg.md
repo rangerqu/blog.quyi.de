@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 行星之路
-tags: [place, astronomy, Göttingen]
+tags: travel, astronomy, Göttingen
 ---
 
 今日的大新闻是新视野号探测器飞掠冥王星。这颗以史上最快速度离开地球的人造物体在九年之久的寂寞旅程之后才到达那里。正巧，前不久我也走了一趟「冥王星」。

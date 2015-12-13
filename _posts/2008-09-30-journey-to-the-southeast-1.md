@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 东南游记·一
-tags: [stopry, place, Wuhan]
+tags: stopry, travel, Wuhan
 ---
 
 ## 1 Leaving Wuhan

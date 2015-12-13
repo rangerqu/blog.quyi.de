@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 现在的法律认可前朝的地契吗？
-tags: [China, economics, law, Zhihu]
+tags: economics, law
 ---
 
 知乎问答：[现在的法律认可前朝的地契吗？](http://www.zhihu.com/question/21886704/answer/19628283)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 律政科幻
-tags: [law, sci-fi, TV series]
+tags: entertainment, tv
 ---
 
 我最喜欢的影视类型无疑是科幻片。其中最爱的莫过于《[萤火虫](http://movie.douban.com/subject/1462550/)》（Firefly）和《[太空堡垒卡拉狄加](http://movie.douban.com/subject/1920763/)》（Battlestar Galactica）两部太空歌剧。太空歌剧（space opera）最主要的特点就是把现实世界中的故事，特别是涉及政治、社会、宗教、伦理和人性等的宏大叙事，放到太空的架空背景里面，极富有史诗感。

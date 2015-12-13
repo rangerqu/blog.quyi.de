@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 应用计量经济学十诫
-tags: [econometrics]
+tags: economics, econometrics
 ---
 
 在谈论计量经济建模的时候 Peter Kennedy 说了一个玩笑：

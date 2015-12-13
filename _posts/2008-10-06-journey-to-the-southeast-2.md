@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 东南游记·二
-tags: [story, place, Fuzhou]
+tags: story, travel, Fuzhou
 ---
 
 ## 2 The Train Story

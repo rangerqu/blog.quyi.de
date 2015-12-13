@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 做一个理性人
-tags: [economics, psychology]
+tags: economics, psychology
 ---
 
 川叶同学的新[日志](http://blog.lishun.me/)里统计了他 2010 年的网购支出，他总结说：

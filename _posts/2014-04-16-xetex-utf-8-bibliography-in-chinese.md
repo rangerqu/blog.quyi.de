@@ -1,7 +1,7 @@
 ---
 layout: post
 title: XeTeX+UTF-8 中文参考文献排序
-tags: [productivity, TeX]
+tags: productivity, TeX
 ---
 
 人文社科领域通常采用著者—出版年（Author-Year）方式引用文献，对于文后参考文献列表，英文文献按作者姓氏字母排序，中文文献按照作者姓名拼音排序。[hooklee](http://www.hooklee.com/) 曾开发了一个 BibTeX 中文化工具「fixbbl」，用于参考文献按拼音、笔顺和笔画数排序。但是这个程序上次更新已经是近十年前了，与当前更加常用的 UTF-8 编码不兼容。

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 安徒生和自行车
-tags: [place, Denmark, Expo]
+tags: travel, Shanghai
 ---
 
 > 我们的时代是童话一般的时代。

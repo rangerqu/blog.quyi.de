@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 为什么年轻人都爱往大城市里挤？
-tags: [economics, spatial]
+tags: economics, spatial
 ---
 
 我发现最近这几年，除了春节的时候，最容易见到老同学的地方不是老家，而是帝魔妖三都。没办法，大家都爱往大城市里挤。

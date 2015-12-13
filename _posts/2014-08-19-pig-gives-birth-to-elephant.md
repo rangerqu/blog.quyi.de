@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 豕产白象
-tags: [history]
+tags: history
 ---
 
 陈硕老师在微博上推荐了一本「充斥工具变量」的宝书《中国古代重大自然灾害和异常年表总集》，梦游南加同学说：

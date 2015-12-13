@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 魔都略记
-tags: [plcae, Expo, Shanghai]
+tags: travel, Shanghai
 ---
 
 前段时间第一次去了上海，足迹终于遍及了帝、魔、妖三都。魔都留给我的印象还挺好，至少对于短期停留而言是个不错的地方。

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 偿命·杀人
-tags: [photography, law, society]
+tags: society
 ---
 
 武汉开始下雪了，大家告诉远道而来的摄影师 Toshi Kazama 这天气冷得有点不正常。

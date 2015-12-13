@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 大城市还是小城镇
-tags: [economics, spatial, Zhihu]
+tags: economics, spatial
 ---
 
 知乎问答：[从生活便利，经济发展，环境保护等方面，到底是发展大城市好，还是发展小城镇更好？](http://www.zhihu.com/question/20439633/answer/15139970)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 北京与上海的发展模式区别
-tags: [economics, development, Zhihu]
+tags: economics, development
 ---
 
 知乎问答：[北京与上海的发展模式有哪些不同？](http://www.zhihu.com/question/19961863/answer/13485687)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我为什么没有女朋友
-tags: [maths, TV series]
+tags: science
 ---
 
 在上周播出的 _The Big Bang Theory_ 里 Howard 用韦恩图向 Leonard 解释他找到女朋友的概率是多么得低，教育他不要捡了 Penny 还卖乖。如果 Leonard 觉得这种解释不可靠，那 Howard 完全可以用 Drake 方程给出一个更有说服力的解释。

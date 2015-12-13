@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 书店故事
-tags: [story, book]
+tags: story, reading
 ---
 
 昨天 W 小姐说我只知道卓越亚马逊不知道新华书店，我说我从来都是在当当网买的。

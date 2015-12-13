@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 什么会改变一切
-tags: [astronomy, movie, TED]
+tags: science, movie
 ---
 
 2 月 5 日，在 2009 年度 TED 大会上，天文学家 Jill Tarter 公开了她的一个足以改变世界的愿望：「让每一位地球人皆参与到外星生命的搜寻中来」。

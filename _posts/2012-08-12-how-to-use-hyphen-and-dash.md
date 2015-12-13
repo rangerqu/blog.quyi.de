@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 英文标点 hyphen 与 dash 的使用方法
-tags: [English, productivity]
+tags: productivity, writing
 ---
 
 英文标点中有一些很容易弄混淆的符号，例如「-」、「–」和「—」，以前一直没有注意到其中的区别，直到写英文论文的时候才知道这三个符号有着严格的区分。
