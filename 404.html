@@ -1,0 +1,18 @@
+---
+layout: default
+title: 404
+---
+
+<div class="entry-content">
+  <h2>休斯敦，我们这里出问题了。</h2>
+  <p><img src="http://ww1.sinaimg.cn/large/abb3ee10gw1ez0usb1m6jj20i208kjtt.jpg"></p>
+  <p>你要访问的页面不存在，看看其它的内容吧：</p>
+</div>
+
+<div class="lists">
+  <ul class="unstyled">
+    {% for item in site.posts %}
+    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
