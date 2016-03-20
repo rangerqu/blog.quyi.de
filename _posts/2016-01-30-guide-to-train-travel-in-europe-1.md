@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 欧洲火车漫游指南·一
+title: 欧洲火车漫游指南（一）
 tags: travel, Europe, train
 ---
 
@@ -52,7 +52,7 @@ _准点率没算取消的车次 DB/dpa_
 
 乘客其实应该保持心态平和，谁叫列车员总会礼貌的对你说，「Senk ju vor träwelling wis Deutsche Bahn!」
 
-继续阅读：[欧洲火车漫游指南·二](2016/guide-to-train-travel-in-europe-2/)
+继续阅读：[欧洲火车漫游指南（二）](2016/guide-to-train-travel-in-europe-2/)
 
 [^1]: 回程在弗赖拉辛换乘时，专门跑去界河瞧了瞧，除了一张小小的牌子说以前这里有个关卡，丝毫看不出是两国边境。只是不明白为什么河里的鸭子都在奥地利那边。
 [^2]: 这里要安利一下意大利的私营高铁 Italo，商务舱大皮椅，全程免费 WiFi，还送饮料和小食哦。
