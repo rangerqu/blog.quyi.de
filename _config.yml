@@ -13,8 +13,6 @@ links:
     url: /about/
   - name: 目录
     url: /archives/
-  - name: 订阅
-    url: /feed.xml
 
 social:
   - name: Email
